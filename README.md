@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=botcoder254" alt="botcoder254" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@telvinteum" target="blank"><img src="https://img.shields.io/twitter/follow/@telvinteum?logo=twitter&style=for-the-badge" alt="@telvinteum" /></a> </p>
+<p align="left"> <a href="https://twitter.com/teumtelvin" target="blank"><img src="https://img.shields.io/twitter/follow/teumtelvin?logo=twitter&style=for-the-badge" alt="teumtelvin" /></a> </p>
 
 - 🔭 I’m currently working on [Node.js Event Website 📝](https://github.com/BotCoder254/EventSys.git)
 
@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/teumtelvin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@telvinteum" height="30" width="40" /></a>
+<a href="https://twitter.com/teumtelvin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="teumtelvin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

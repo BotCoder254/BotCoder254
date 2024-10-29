@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/teumtelvin" target="blank"><img src="https://img.shields.io/twitter/follow/teumtelvin?logo=twitter&style=for-the-badge" alt="teumtelvin" /></a> </p>
 
-- 🔭 I’m currently working on [Node.js Event Website 📝](https://github.com/BotCoder254/EventSys.git)
+- 🔭 I’m currently working on [Node.js Twitter like space 📝](https://github.com/BotCoder254/EventSys.git)
 
 - 🌱 I’m currently learning **🌟 Full Stack Developer passionate about building simple yet impactful projects**
 

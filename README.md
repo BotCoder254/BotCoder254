@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with **Social Media APIS**
 
-- 👨‍💻 All of my projects are available at [COOMING SOON](COOMING SOON)
+- 👨‍💻 All of my projects are available at [Portfolio](https://botcoder254.github.io/daisy/)
 
-- 📝 I regularly write articles on [COOMING SOON](COOMING SOON)
+- 📝 I regularly write articles on [Portfolio](https://botcoder254.github.io/daisy/)
 
 - 💬 Ask me about **🚀 Always learning and improving my skills in JavaScript, Node.js, and web development.**
 
 - 📫 How to reach me **telvivaztelvin@gmail.com**
 
-- 📄 Know about my experiences [COOMING SOON](COOMING SOON)
+- 📄 Know about my experiences [Portfolio](https://botcoder254.github.io/daisy/)
 
 - ⚡ Fun fact **love exploring new technologies and enjoy solving real-world problems through code!**
 

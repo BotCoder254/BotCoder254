@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm TELVIN TEUM</h1>
 <h3 align="center">A passionate frontend & Backend developer from Kenya</h3>
 
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://rishavchanda.io)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=botcoder254&label=Profile%20views&color=0e75b6&style=flat" alt="botcoder254" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=botcoder254" alt="botcoder254" /></a> </p>

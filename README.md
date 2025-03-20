@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=botcoder254" alt="botcoder254" /></a> </p>
 
+<a href="https://app.daily.dev/telvinteum"><img src="https://api.daily.dev/devcards/v2/fHXKQsFKEpHqADEmpsXk2.png?type=default&r=1hq" width="356" alt="TELVIN TEUM's Dev Card"/></a>
+
+
 <p align="left"> <a href="https://twitter.com/teumtelvin" target="blank"><img src="https://img.shields.io/twitter/follow/teumtelvin?logo=twitter&style=for-the-badge" alt="teumtelvin" /></a> </p>
 
 - 🔭 I’m currently working on [Node.js Twitter like space 📝](https://github.com/BotCoder254/EventSys.git)

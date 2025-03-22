@@ -7,6 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=botcoder254" alt="botcoder254" /></a> </p>
 
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+
 <a href="https://app.daily.dev/telvinteum"><img src="https://api.daily.dev/devcards/v2/fHXKQsFKEpHqADEmpsXk2.png?type=default&r=1hq" width="356" alt="TELVIN TEUM's Dev Card"/></a>
 
 

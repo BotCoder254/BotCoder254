@@ -12,7 +12,7 @@
 </p>
 
 
-<a href="https://app.daily.dev/telvinteum"><img src="https://api.daily.dev/devcards/v2/fHXKQsFKEpHqADEmpsXk2.png?type=default&r=1hq" width="356" alt="TELVIN TEUM's Dev Card"/></a>
+
 
 
 <p align="left"> <a href="https://twitter.com/teumtelvin" target="blank"><img src="https://img.shields.io/twitter/follow/teumtelvin?logo=twitter&style=for-the-badge" alt="teumtelvin" /></a> </p>
